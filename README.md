@@ -13,6 +13,7 @@ This CLI tool has the following features built within it with regard to adding C
 
 ## Running Application 
 The following sections outline how to get the CLI tool to work. Before following the steps to run the program. First you have to have the files in your local device (Cloning this repository or downloading the files to local device). The folder structure should be as follows
+```bash
 main_folder/
 │
 ├── addcardtool/
@@ -28,6 +29,7 @@ main_folder/
 ├── README.md
 ├── .env
 └── requirements.txt
+```
 A .env file is listed but not provided in this file you must have your Trello API_KEY, API_TOKEN and USERNAME
 A sample of what this should look like is as follows: 
 ```
